@@ -1,1 +1,1 @@
-# PulseUp
+# FitCoachAI
